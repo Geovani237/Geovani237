@@ -9,7 +9,7 @@
 Atualmente estou estudano no Senac de Americana, no Curso Ténico em Técnico em informática. Estou estudando desenvolvimente Web, e Front-end
 
 - 🌐 <b>Desenvolvimento web utilizando HTML, CSS, JavaScript e PHP.</b>
-- 🖥 <b>Analista em suporte técnico.</b>
+- 🖥 <b>Analista de suporte técnico.</b>
 <hr>
 <p align="center"> 
 
