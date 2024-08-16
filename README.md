@@ -10,6 +10,7 @@ Atualmente estou estudano na FIAP, no Tecnólogo Analise e desenvolvimento de si
 
 - 🌐 <b>Desenvolvimento web utilizando HTML, CSS, JavaScript e PHP.</b>
 - 🖥 <b>Analista de suporte técnico.</b>
+- <b>Linguagem que estou focando no momento: Java</b>
 <hr>
 <p align="center"> 
 
