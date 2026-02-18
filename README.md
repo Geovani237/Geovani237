@@ -6,7 +6,7 @@
 
 <h3>Você pode conhecer meu portifólio em (https://Geovani237.github.io/)</h3>
 
-Atualmente estou estudano na FIAP, no Tecnólogo Analise e desenvolvimento de sistemas. Estou estudando Java, python, desenvolvimento Web, Mobile, Front-end, back-end, Banco de dados
+Bolsista na Embrapa,formando na faculdade FIAP no curso de Tecnólogo Analise e desenvolvimento de sistemas. Estou estudando Java, python, desenvolvimento Web, Mobile, Front-end, back-end, Banco de dados
 
 - 🌐 <b>Desenvolvimento web utilizando HTML, CSS, JavaScript e PHP.</b>
 - 🖥 <b>Analista de suporte técnico.</b>
