@@ -4,8 +4,7 @@
 
 - 🚀 **Backend Developer** focado no ecossistema Java.
 - 🎓 Graduado **Sistemas de Informação na FIAP**.
-- 💼 Atuando como **Trainee na Embrapa**, desenvolvendo soluções escaláveis.
-- 🌍 De Americana interior de SP.
+- 💼 Atuando como **Trainee na Embrapa**, na sustentação da API Agritec
 - 🗣️ Português (Nativo) e Inglês em evolução.
 
 <br>
@@ -17,11 +16,6 @@
 </div>
 
 <br>
-
-<div align="center">
-<img width=48% src="https://github-readme-stats.vercel.app/api?username=Geovani237&show_icons=true&theme=github_dark_dimmed" alt="Geovani's stats"/>
-<img width=43% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovani237&layout=compact&theme=github_dark_dimmed" alt="Geovani's most languages"/>
-</div>
 
 <br>
 
